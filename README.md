@@ -50,7 +50,7 @@ CV Builder is a web application for building personal résumè. This project aim
 - Tailwind CSS
 ### Back-end
 - Node.js (Express) 
-- MongoDB (Mongoose)
+- MongoDB (Mongoose) //phúc
 #### SQL Database Management for résumè creation and storage.
 
 ## Contributing
